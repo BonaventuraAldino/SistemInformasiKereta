@@ -1,0 +1,1 @@
+<?php include ("ptka/index.php");?>
